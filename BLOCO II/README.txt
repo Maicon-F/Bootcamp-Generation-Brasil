@@ -1,1 +1,1 @@
-Esta pasta contém exercícios de MySQL e de DOCKER
+Esta pasta contém exercícios de MySQL e de Spring Boot.
