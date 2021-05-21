@@ -1,0 +1,87 @@
+/* Index formatting
+*/
+
+.container {
+    display:flex;
+    flex-flow: wrap;
+    justify-content:center;
+    border: 2px solid green;
+    padding: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+h1 {text-align: center;
+    font: 300 2em/1.5em '',serif;
+    background-color:crimson;
+    color:whitesmoke;
+}
+
+h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-top:250px;
+    font: 200 2em/1.5em 'Open Sans',serif;
+    text-decoration: underline;
+}
+
+.menu li{
+    display:inline;
+    padding: 20px;
+
+    text-align: center;
+}
+
+.menu li a{
+    text-decoration: none;
+}
+
+.menu li a:hover{
+    color: magenta;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:100px;
+    width: 20%;
+}
+
+.domBody{
+    font: 400 2em/1.5em 'Open Sans',serif;
+    color: #45484d;
+ }
+
+
+ /* Contato formatting
+*/
+
+.container2{
+display:flex;
+flex-flow:flex;
+justify-content:center;
+align-items: center;   
+}
+
+.div1{
+    margin: 50px;
+}
+
+.div2{
+    margin: 50px;
+}
+
+.tm-sc{
+    width: 60px;
+    height: 60px;
+    padding:30px;
+}
+
+.div3 {
+    display:flex;
+    flex-flow:flex;
+    justify-content:center;
+    align-items: center;  
+}
