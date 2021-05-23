@@ -1,0 +1,90 @@
+.carousel-inner{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+  
+}
+
+nav{
+    margin-bottom: 50px;
+    margin-top: 10px;
+    background-color: navy;
+    font-family: fantasy;
+    color: white;
+}
+
+
+
+
+h1 {
+    font-family: fantasy;
+    justify-content: center;
+    margin-left: 160px;
+}
+
+.post{
+   
+    flex-flow: wrap;
+    justify-content:start;
+    margin-top: 10px;
+    margin-right:160px;
+    margin-bottom: 100;
+    margin-left: 160px;
+}
+
+img{
+    width:11%;
+    height:11%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:100px;
+}
+
+
+
+.main{
+    background-color:powderblue;
+    margin-bottom: 100px;
+
+}
+
+body{
+    font-family:"Georgia";
+    font-size: 22px;
+    line-height: 1.7;
+}
+
+.myvideo{
+    margin-top:50px;
+    margin-bottom: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contato{
+    display:flex;
+    margin:auto;
+    justify-items: center;
+    justify-content: center;
+}
+
+
+.form-group{
+    column-width: 500px;
+}
+
+.tm-sc{
+    width: 60px;
+    height: 60px;  
+    padding: 10px;
+}
+
+.div3 {
+    display:flex;
+    flex-flow:flex;
+    justify-content:center;
+    align-items: center;  
+}
+
