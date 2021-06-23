@@ -22,11 +22,11 @@ public class Usuario {
 	private String nome;
 	
 	@NotNull
-	@Size(min=5, max=100)
+	@Size
 	private String usuario;
 	
 	@NotNull
-	@Size(min=5, max=100)
+	@Size
 	private String senha;
 
 	public Long getId() {
